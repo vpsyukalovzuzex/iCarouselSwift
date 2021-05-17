@@ -68,3 +68,11 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+.DS_Store
+.swiftpm
+/Packages
+/.build
+/*.xcodeproj
+xcuserdata/
+Package.resolved
